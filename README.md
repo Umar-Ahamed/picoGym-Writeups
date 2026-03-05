@@ -22,12 +22,3 @@ Following the same modular setup as my SOC lab, these investigations are perform
 * **Operating System:** Kali Linux (Guest VM).
 * **Web Analysis:** **Burp Suite Professional/Community** paired with **FoxyProxy** for efficient request interception.
 * **Reconnaissance:** Firefox Developer Tools (Inspector/Debugger), `curl`, `strings`.
-
-### 🚀 Methodology (SOP)
-
-To maintain the high standards set in my **Baseline Analysis** logs, every CTF write-up follows a 4-step Standard Operating Procedure:
-
-1. **Initial Observation:** Documenting the challenge prompt and initial "guess" or hypothesis.
-2. **Investigation/Troubleshooting:** Recording every attempt, including failed paths (e.g., attempting Base64 before pivoting to ROT13).
-3. **Exploitation:** Step-by-step instructions on the final successful attack vector.
-4. **Evidence:** Visual confirmation via screenshots of source code, tool outputs, and captured flags.
