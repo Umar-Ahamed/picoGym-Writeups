@@ -10,7 +10,7 @@ This directory serves as a technical record, organized by challenge category.
 
 | Category | Solved | Latest Investigation |
 | --- | --- | --- |
-| **Web Exploitation** | 1 | [Crack the Gate 1](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/Crack%20the%20Gate%201.md) |
+| **Web Exploitation** | 2 |[WebDecode](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/WebDecode.md) |
 | **Forensics** | 0 | Pending |
 | **Cryptography** | 0 | Pending |
 
