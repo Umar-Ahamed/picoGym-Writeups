@@ -10,7 +10,7 @@ This directory serves as a technical record, organized by challenge category.
 
 | Category | Solved | Latest Investigation |
 | --- | --- | --- |
-| **Web Exploitation** | 3 |[IntroToBurp](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/IntroToBurp.md)|
+| **Web Exploitation** | 4 |[Local Authority](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/Local%20Authority.md)|
 | **Forensics** | 0 | Pending |
 | **Cryptography** | 0 | Pending |
 
