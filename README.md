@@ -10,7 +10,7 @@ This directory serves as a technical record, organized by challenge category.
 
 | Category | Solved | Latest Investigation |
 | --- | --- | --- |
-| **Web Exploitation** | 6 |[Includes](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/Includes.md)|
+| **Web Exploitation** | 6 |[Old Sessions](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/Old%20Sessions.md)|
 | **Forensics** | 1 | [Packets Primer](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Forensics/Packets%20Primer.md) |
 | **Cryptography** | 0 | Pending |
 
