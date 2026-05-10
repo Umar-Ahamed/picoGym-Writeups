@@ -11,7 +11,7 @@ This directory serves as a technical record, organized by challenge category.
 | Category | Solved | Latest Investigation |
 | --- | --- | --- |
 | **Web Exploitation** | 6 |[Old Sessions](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Web%20Exploitation/Old%20Sessions.md)|
-| **Forensics** | 1 | [Packets Primer](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Forensics/Packets%20Primer.md) |
+| **Forensics** | 1 | [shark on wire 1](https://github.com/Umar-Ahamed/picoGym-Writeups/blob/main/Forensics/shark%20on%20wire%201.md) |
 | **Cryptography** | 0 | Pending |
 
 ### 🛠️ Tech Stack & Lab Environment
